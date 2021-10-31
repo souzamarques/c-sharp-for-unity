@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class variaveis : MonoBehaviour {
 
-    int vidaPlayer = 10, ataqueEnemy = 5;
-    float jumpForce = 5.5f;
-    bool mortePlayer = false;
+    int vidaPlayer = 50, vidaEnemy = 10;
     string nomePlayer = "Hero";
+    float tempo;
+    bool mortePlayer = false;
 
     // Start is called before the first frame update
     void Start() {
@@ -16,6 +16,7 @@ public class variaveis : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        
+        tempo = tempo + Time.deltaTime;
+        Debug.Log(tempo);
     }
 }
