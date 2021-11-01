@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\variaveis.cs" />
      <Compile Include="Assets\Scripts\condicional.cs" />
+     <Compile Include="Assets\Scripts\estruturaSwitch.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/owarido/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -626,6 +627,9 @@
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Sysroot.Linux_x86_64">
+        <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
@@ -644,14 +648,17 @@
     <Reference Include="Unity.2D.Path.Editor">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.InternalAPIEditorBridge.001">
-        <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+    <Reference Include="Unity.Toolchain.Linux-x86_64">
+        <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+        <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -688,12 +695,6 @@
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Sysroot.Linux_x86_64">
-        <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Toolchain.Linux-x86_64">
-        <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.SysrootPackage.Editor">
         <HintPath>/home/owarido/c-sharp-for-unity/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
