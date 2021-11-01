@@ -39,6 +39,8 @@
      <Compile Include="Assets\Scripts\variaveis.cs" />
      <Compile Include="Assets\Scripts\condicional.cs" />
      <Compile Include="Assets\Scripts\estruturaSwitch.cs" />
+     <Compile Include="Assets\Scripts\estruturaFor.cs" />
+     <Compile Include="Assets\Scripts\arrays.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/owarido/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
