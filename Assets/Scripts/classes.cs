@@ -10,6 +10,8 @@ public class classes : MonoBehaviour {
     void Start() {
         /* Dracula.forca = 100;
         Dracula.velocidade = 100; */
+        int somaNumero = statics.soma(5, 15);
+        statics.mortePersonagem = true;
     }
 
     // Update is called once per frame

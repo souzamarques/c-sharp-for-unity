@@ -44,6 +44,7 @@
      <Compile Include="Assets\Scripts\listas.cs" />
      <Compile Include="Assets\Scripts\dicionarios.cs" />
      <Compile Include="Assets\Scripts\classes.cs" />
+     <Compile Include="Assets\Scripts\statics.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/owarido/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
