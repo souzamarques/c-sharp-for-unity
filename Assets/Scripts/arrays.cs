@@ -10,15 +10,16 @@ public class arrays : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
-        print(numeros[0]);
-        print(numeros[1]);
-        print(numeros[2]);
-        numeros[1] = 30;
         nomes[0] = "Hero";
+        Debug.Log(nomes[0]);
 
         for(int i = 0; i < novosNumeros.Length; i++) {
             novosNumeros[i] = i;
             Debug.Log(novosNumeros[i] + 1); 
+        }
+
+        foreach(int i in numeros) {
+            print(i);
         }
     }
 
