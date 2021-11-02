@@ -83,3 +83,77 @@ Received Import Request.
 Start importing Assets/Scripts/sobrescrita.cs using Guid(e9bbff7de1d120fcaa16d18f38345990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87590e7277213b1b87b145cba3eb921e') in 0,077889 seconds
   Import took 0,124302 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,525 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,5 MB.
+System memory in use after: 79,5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2274.
+Total: 9,020021 ms (FindLiveObjects: 0,805222 ms CreateObjectMapping: 0,271003 ms MarkObjects: 7,585633 ms  DeleteObjects: 0,353047 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1025,989672 seconds.
+  path: Assets/Scripts/modificadores.cs
+  artifactKey: Guid(6ec365c10fbad3b6b81e445f64657d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/modificadores.cs using Guid(6ec365c10fbad3b6b81e445f64657d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea0cd19ecc8e7f76268f44191f835cc') in 0,042576 seconds
+  Import took 0,048472 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,000980 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,6 MB.
+System memory in use after: 79,6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 4,382934 ms (FindLiveObjects: 0,273299 ms CreateObjectMapping: 0,104048 ms MarkObjects: 3,825043 ms  DeleteObjects: 0,177989 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,024492 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,960 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,6 MB.
+System memory in use after: 79,6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 47,138227 ms (FindLiveObjects: 15,874351 ms CreateObjectMapping: 0,365551 ms MarkObjects: 30,546291 ms  DeleteObjects: 0,346419 ms)
+
