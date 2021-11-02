@@ -157,3 +157,72 @@ System memory in use after: 79,6 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
 Total: 47,138227 ms (FindLiveObjects: 15,874351 ms CreateObjectMapping: 0,365551 ms MarkObjects: 30,546291 ms  DeleteObjects: 0,346419 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2933,162689 seconds.
+  path: Assets/Scripts/parametros.cs
+  artifactKey: Guid(2856ce19b12fc5402ae9a7aac462547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/parametros.cs using Guid(2856ce19b12fc5402ae9a7aac462547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4499e45008bf0faf68a67c55a78eb5bf') in 0,079099 seconds
+  Import took 0,084723 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,000958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,620 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1825 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,6 MB.
+System memory in use after: 79,6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 4,567759 ms (FindLiveObjects: 0,304757 ms CreateObjectMapping: 0,116033 ms MarkObjects: 3,961771 ms  DeleteObjects: 0,183145 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2001,273650 seconds.
+  path: Assets/Scripts/parametros.cs
+  artifactKey: Guid(2856ce19b12fc5402ae9a7aac462547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/parametros.cs using Guid(2856ce19b12fc5402ae9a7aac462547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7a52296ff9230694ac9e68e640ef3c') in 0,014224 seconds
+  Import took 0,023828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,107172 seconds.
+  path: Assets/Scripts/parametros.cs
+  artifactKey: Guid(2856ce19b12fc5402ae9a7aac462547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/parametros.cs using Guid(2856ce19b12fc5402ae9a7aac462547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7a52296ff9230694ac9e68e640ef3c') in 0,001476 seconds
+  Import took 0,010076 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,016324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4,44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3,107 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1825 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,6 MB.
+System memory in use after: 79,6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 9,174059 ms (FindLiveObjects: 0,564774 ms CreateObjectMapping: 0,267579 ms MarkObjects: 7,913464 ms  DeleteObjects: 0,423291 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
