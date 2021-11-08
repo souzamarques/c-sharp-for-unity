@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\classeSelada.cs" />
      <Compile Include="Assets\Scripts\estruturaStruct.cs" />
      <Compile Include="Assets\Scripts\aulaInterface.cs" />
+     <Compile Include="Assets\Scripts\tratamentoErros.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/owarido/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
