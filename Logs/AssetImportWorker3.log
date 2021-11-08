@@ -1,0 +1,19 @@
+Using pre-set license
+Desktop is 1366 x 768 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+/home/owarido/c-sharp-for-unity
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+44821
+Successfully changed project path to: /home/owarido/c-sharp-for-unity
+/home/owarido/c-sharp-for-unity
+Using Asset Import Pipeline V2.

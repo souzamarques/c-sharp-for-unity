@@ -42,6 +42,7 @@
      <Compile Include="Assets\Scripts\variaveis.cs" />
      <Compile Include="Assets\Scripts\parametros.cs" />
      <Compile Include="Assets\Scripts\overloading.cs" />
+     <Compile Include="Assets\Scripts\classeAbstrata.cs" />
      <Compile Include="Assets\Scripts\sobrescrita.cs" />
      <Compile Include="Assets\Scripts\dicionarios.cs" />
      <Compile Include="Assets\Scripts\modificadores.cs" />
@@ -50,7 +51,7 @@
      <Compile Include="Assets\Scripts\classes.cs" />
      <Compile Include="Assets\Scripts\arrays.cs" />
      <Compile Include="Assets\Scripts\condicional.cs" />
-     <Compile Include="Assets\Scripts\classeAbstrata.cs" />
+     <Compile Include="Assets\Scripts\classeSelada.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/owarido/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
