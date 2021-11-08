@@ -149,3 +149,72 @@ Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  1,765 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1828 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,7 MB.
+System memory in use after: 79,7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 9,556900 ms (FindLiveObjects: 0,749266 ms CreateObjectMapping: 0,348934 ms MarkObjects: 8,073977 ms  DeleteObjects: 0,379534 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,985 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,7 MB.
+System memory in use after: 79,7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 4,852542 ms (FindLiveObjects: 0,405541 ms CreateObjectMapping: 0,277001 ms MarkObjects: 3,998683 ms  DeleteObjects: 0,168561 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2219,481252 seconds.
+  path: Assets/Scripts/aulaInterface.cs
+  artifactKey: Guid(724eebf0c64ef91c6ad1e589e775e5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/aulaInterface.cs using Guid(724eebf0c64ef91c6ad1e589e775e5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258f1b470867a030fae75b44a1336fa9') in 0,004916 seconds
+  Import took 0,010022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6673,886838 seconds.
+  path: Assets/Scripts/aulaInterface.cs
+  artifactKey: Guid(724eebf0c64ef91c6ad1e589e775e5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/aulaInterface.cs using Guid(724eebf0c64ef91c6ad1e589e775e5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768c64fddccdaf11899494d1918060e8') in 0,799218 seconds
+  Import took 17,854027 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,028492 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 19,76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 14,939 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,7 MB.
+System memory in use after: 79,7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 11,629803 ms (FindLiveObjects: 0,378344 ms CreateObjectMapping: 0,157542 ms MarkObjects: 10,742179 ms  DeleteObjects: 0,348418 ms)
+
