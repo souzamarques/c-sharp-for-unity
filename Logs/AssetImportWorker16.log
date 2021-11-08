@@ -84,3 +84,68 @@ Start importing Assets/Scripts/classeSelada.cs using Guid(bff370edff022749191eb5
   ERROR: Build asset version error: assets/scripts/classeselada.cs in SourceAssetDB has modification time of '2021-11-08T04:38:38Z' while content on disk has modification time of '2021-11-08T04:42:20Z'
   Import took 0,125085 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,040336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,612 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,6 MB.
+System memory in use after: 79,6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2278.
+Total: 8,841815 ms (FindLiveObjects: 0,560087 ms CreateObjectMapping: 0,220437 ms MarkObjects: 7,701687 ms  DeleteObjects: 0,353829 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3561,164588 seconds.
+  path: Assets/Scripts/estruturaStruct.cs
+  artifactKey: Guid(69eb2de5455f9aba49d584a0a4309850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/estruturaStruct.cs using Guid(69eb2de5455f9aba49d584a0a4309850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c5229027b7ffe4edd2169abca28fc7') in 0,027208 seconds
+  Import took 0,032512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,001038 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,689 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1828 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,7 MB.
+System memory in use after: 79,7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 5,219807 ms (FindLiveObjects: 0,290102 ms CreateObjectMapping: 0,116128 ms MarkObjects: 4,587665 ms  DeleteObjects: 0,222015 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,010702 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,765 seconds
+Platform modules already initialized, skipping
